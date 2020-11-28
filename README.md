@@ -26,10 +26,10 @@ Here's some GIFs from some examples from this unity project:
 **Note:** These gifs don't loop seamlessly but rest assured they do in the actual projects.
 
 *Example_horizontalParallax scene*
-![Side Scroller Example](/image/gif1.gif)
+![Side Scroller Example](https://github.com/jordanbleu/unity-parallax-2d/blob/main/Image/gif1.gif?raw=true)
 
 *Example_verticalParallax scene*
-![Space Example](/image/gif2.gif)
+![Space Example](https://github.com/jordanbleu/unity-parallax-2d/blob/stuff/Image/gif2.gif?raw=true)
 
 ## How to Use 
 
