@@ -29,7 +29,7 @@ Here's some GIFs from some examples from this unity project:
 ![Side Scroller Example](https://github.com/jordanbleu/unity-parallax-2d/blob/main/Image/gif1.gif?raw=true)
 
 *Example_verticalParallax scene*
-![Space Example](https://github.com/jordanbleu/unity-parallax-2d/blob/stuff/Image/gif2.gif?raw=true)
+![Space Example](https://github.com/jordanbleu/unity-parallax-2d/blob/main/Image/gif2.gif?raw=true)
 
 ## How to Use 
 
